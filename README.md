@@ -1,18 +1,12 @@
-<h4 align="left">Hi 👋! My name is Lasith Bandara and I'm a student, from Sri Lanka</h4>
+<h2 align="left">Hi 👋! My name isLasith Bandara and I'm a student, from Sri Lanka</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lasithwxn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="145" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lasithwxn&locale=en&mode=weekly&theme=prussian&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lasithwxn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lasithwxn&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lasithwxn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="170" src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif"  />
 
 ###
 
@@ -33,18 +27,33 @@
 
 ###
 
-<br clear="both">
+<img src="https://pin.it/1vJw9CNbz" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/Lasithwxn/Lasithwxn/output/snake.svg" alt="Snake animation" />
+###
+
+<img align="right" height="150" src="https://cdn.dribbble.com/users/2208826/screenshots/6801166/__8.gif"  />
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/159078/screenshots/2439214/media/3cbb6570d55889ab97117a0eb5cb8bac.gif" width="200" alt="Hello World Banner" />
+<img src="https://cdn.dribbble.com/users/2208826/screenshots/6801166/__8.gif" alt="Snake animation" />
+
+###
+
+<div align="left">
 </div>
 
 ###
 
-<h3 align="center">--- Hello World!! ---<br>...</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<h3 align="center">--- Hello World!! ---</h3>
+
+###
