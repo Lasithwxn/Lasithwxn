@@ -23,19 +23,18 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
+  <a href="https://www.instagram.com/lasithwxn?igsh=MWtsdmZtd3hxazFhZw==" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo" />
+</a>
+  
+  <a href="https://www.youtube.com/@Lasithwxn" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="20" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="20" alt="facebook logo"  />
-</div>
-
+  </a>
+  
+  
 ###
 
 <img align="right" height="150" src="https://cdn.dribbble.com/users/2208826/screenshots/6801166/__8.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Lasithwxn/Lasithwxn/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -68,4 +67,4 @@
 </div>
 
 ###
-s
+<div align="center"> ©copyright 2025 wxn </div>
