@@ -19,7 +19,7 @@ I'm an AI student passionate about technology, machine learning, and software de
 class AIStudent:
     def __init__(self):
         self.name = "Lasith"
-        self.year = "1st Year, 1st Semester"
+        self.year = "1st Year, 2st Semester"
         self.focus = ["Artificial Intelligence", "Machine Learning", "Full Stack Development"]
         self.current_status = "Learning and Building 🚀"
     
@@ -203,9 +203,9 @@ mindmap
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lasithwxn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_youtube_channel)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lasithwxn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lasithwxn
 
 </div>
 
