@@ -3,7 +3,7 @@
 
 # 👋 Hey! I'm Lasith
 
-### AI Student | Sliit | Building the Future
+### AI Student | Photograph  | Nuture Lover | Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Exploring+Artificial+Intelligence;Learning+Full+Stack+Development;Deep+Learning+Enthusiast;Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 
