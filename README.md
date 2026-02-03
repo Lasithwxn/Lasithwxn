@@ -3,7 +3,7 @@
 
 # 👋 Hey! I'm Lasith
 
-### AI Student | 1st Year, 1st Semester | Building the Future
+### AI Student | Sliit | Building the Future
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Exploring+Artificial+Intelligence;Learning+Full+Stack+Development;Deep+Learning+Enthusiast;Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a first-year AI student passionate about technology, machine learning, and software development. Currently diving deep into the fundamentals while building projects that matter.
+I'm an AI student passionate about technology, machine learning, and software development. Currently diving deep into the fundamentals while building projects that matter.
 
 ```python
 class AIStudent:
